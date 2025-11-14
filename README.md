@@ -1,6 +1,4 @@
-📈 Completed Data Visualization with Python Course
-📈 Completed Data Visualization Course
+📈 Completed Data Visualization & Data Visualization with Python Certifications
 
-⭐ Proud to complete certifications in “Data Visualization” and “Data Visualization with Python.”  
-Through these courses, I learned how to apply visual design principles, choose the right charts, and create impactful visualizations using Python libraries like Matplotlib, Seaborn, and Plotly.  
-These certifications have strengthened my ability to analyze data, communicate insights, and build meaningful data stories.
+⭐ Proud to complete both certifications. These courses strengthened my skills in visual design, 
+chart selection, and creating clear insights using Python visualization tools.
